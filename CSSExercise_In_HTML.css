@@ -1,0 +1,52 @@
+body {
+    background-color: powderblue;
+}
+h1 {
+    color: black;
+    border: 2px solid blanchedalmond;
+    margin: 20px;
+    text-align: center;
+}
+p2 { 
+    color: blue;
+    font-family: verdana;
+    font-size: 160%;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color:chartreuse;
+    text-decoration: italic;
+    
+}
+
+
+a:link, a:visited {
+  background-color: blanchedalmond;
+  color: black;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
+
+img {
+    width: 10%;
+    height: 10%;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }

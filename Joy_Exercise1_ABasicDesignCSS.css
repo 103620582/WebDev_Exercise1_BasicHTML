@@ -1,0 +1,25 @@
+
+.boxed1 {
+    border: 2px dotted black;
+    padding: 20px;
+    margin: 20px;
+}
+body {
+    background-color:seashell;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    color:orange;
+    text-decoration: underline;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.boxed2 {
+    border: 2px solid orange;
+    padding: 20px;
+    margin: 20px;
+
+}
+
